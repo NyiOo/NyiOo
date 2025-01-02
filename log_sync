@@ -1,0 +1,8 @@
+FIFO read thread is running
+ch: 0, Buff pointer: 0xb6506008
+ch: 1, Buff pointer: 0xb637f008
+ch: 2, Buff pointer: 0xb62fe008
+ch: 3, Buff pointer: 0xb627d008
+Start delay sync test
+FIFO opened
+[ EXIT ] Sync block exited

@@ -1,0 +1,33 @@
+[ INFO ] Starting multichannel coherent RTL-SDR receiver
+Exact sample rate is: 2000000.052982 Hz
+Exact sample rate is: 2000000.052982 Hz
+Exact sample rate is: 2000000.052982 Hz
+Exact sample rate is: 2000000.052982 Hz
+FIFO read thread is running
+FIFO opened
+[ INFO ] close function 
+[ INFO ] Device:0 handler thread exited
+[ INFO ] Device closed with id:0
+[ INFO ] Device:1 handler thread exited
+[ INFO ] Device closed with id:1
+[ INFO ] Device:2 handler thread exited
+[ INFO ] Device closed with id:2
+[ INFO ] Device:3 handler thread exited
+[ INFO ] Device closed with id:3
+[ ERROR ]  Async read stop failed: Resource temporarily unavailable
+[ ERROR ]  Async read stop failed: Resource temporarily unavailable
+[ ERROR ]  Async read stop failed: Resource temporarily unavailable
+[ ERROR ]  Async read stop failed: Resource temporarily unavailable
+[ INFO ] close function 
+[ INFO ] Device:0 handler thread exited
+[ INFO ] Device closed with id:0
+[ INFO ] Device:1 handler thread exited
+[ INFO ] Device closed with id:1
+[ INFO ] Device:2 handler thread exited
+[ INFO ] Device closed with id:2
+[ INFO ] Device:3 handler thread exited
+[ INFO ] Device closed with id:3
+[ ERROR ]  Async read stop failed: Resource temporarily unavailable
+[ ERROR ]  Async read stop failed: Resource temporarily unavailable
+[ ERROR ]  Async read stop failed: Resource temporarily unavailable
+[ ERROR ]  Async read stop failed: Resource temporarily unavailable

@@ -1,0 +1,93 @@
+QStandardPaths: XDG_RUNTIME_DIR not set, defaulting to '/tmp/runtime-pi'
+QPixmap::scaled: Pixmap is a null pixmap
+QPainter::begin: Painter already active
+QPainter::begin: Painter already active
+QPainter::begin: Painter already active
+QPainter::begin: Painter already active
+gr-osmosdr 0.2.0.0 (0.2.0) gnuradio v3.8.3.1-3-gada48d50
+built-in source types: file rtl rtl_tcp rfspace redpitaya 
+Using device #1 RTL-SDR KerberosSDR SN: 002
+[R82XX] PLL not locked!
+[R82XX] PLL not locked!
+QPainter::begin: Painter already active
+QPainter::begin: Painter already active
+QGraphicsScene::addItem: item has already been added to this scene
+QPainter::begin: Painter already active
+QPainter::begin: Painter already active
+QGraphicsScene::addItem: item has already been added to this scene
+QPainter::begin: Painter already active
+QPainter::begin: Painter already active
+QGraphicsScene::addItem: item has already been added to this scene
+QPainter::begin: Painter already active
+QPainter::begin: Painter already active
+QGraphicsScene::addItem: item has already been added to this scene
+QPainter::begin: Painter already active
+QPainter::begin: Painter already active
+QGraphicsScene::addItem: item has already been added to this scene
+QPainter::begin: Painter already active
+QPainter::begin: Painter already active
+QGraphicsScene::addItem: item has already been added to this scene
+QPainter::begin: Painter already active
+QPainter::begin: Painter already active
+QGraphicsScene::addItem: item has already been added to this scene
+QPainter::begin: Painter already active
+QPainter::begin: Painter already active
+QGraphicsScene::addItem: item has already been added to this scene
+QPainter::begin: Painter already active
+QPainter::begin: Painter already active
+QGraphicsScene::addItem: item has already been added to this scene
+QPainter::begin: Painter already active
+QPainter::begin: Painter already active
+QGraphicsScene::addItem: item has already been added to this scene
+QPainter::begin: Painter already active
+QPainter::begin: Painter already active
+gr::log :INFO: audio source - Audio sink arch: alsa
+gr-osmosdr 0.2.0.0 (0.2.0) gnuradio v3.8.3.1-3-gada48d50
+built-in source types: file rtl rtl_tcp rfspace redpitaya 
+Using device #1 RTL-SDR KerberosSDR SN: 002
+usb_claim_interface error -6
+gr-osmosdr 0.2.0.0 (0.2.0) gnuradio v3.8.3.1-3-gada48d50
+built-in source types: file rtl rtl_tcp rfspace redpitaya 
+Using device #1 RTL-SDR KerberosSDR SN: 002
+usb_claim_interface error -6
+gr-osmosdr 0.2.0.0 (0.2.0) gnuradio v3.8.3.1-3-gada48d50
+built-in source types: file rtl rtl_tcp rfspace redpitaya 
+Using device #1 RTL-SDR KerberosSDR SN: 002
+[R82XX] PLL not locked!
+[R82XX] PLL not locked!
+QPainter::begin: Painter already active
+QPainter::begin: Painter already active
+QGraphicsScene::addItem: item has already been added to this scene
+QPainter::begin: Painter already active
+QPainter::begin: Painter already active
+QGraphicsScene::addItem: item has already been added to this scene
+QPainter::begin: Painter already active
+QPainter::begin: Painter already active
+QGraphicsScene::addItem: item has already been added to this scene
+QPainter::begin: Painter already active
+QPainter::begin: Painter already active
+QGraphicsScene::addItem: item has already been added to this scene
+QPainter::begin: Painter already active
+QPainter::begin: Painter already active
+QGraphicsScene::addItem: item has already been added to this scene
+QPainter::begin: Painter already active
+QPainter::begin: Painter already active
+QGraphicsScene::addItem: item has already been added to this scene
+QPainter::begin: Painter already active
+QPainter::begin: Painter already active
+QGraphicsScene::addItem: item has already been added to this scene
+QPainter::begin: Painter already active
+QPainter::begin: Painter already active
+QGraphicsScene::addItem: item has already been added to this scene
+QPainter::begin: Painter already active
+QPainter::begin: Painter already active
+QGraphicsScene::addItem: item has already been added to this scene
+QPainter::begin: Painter already active
+QPainter::begin: Painter already active
+kill: (10433): No such process
+Traceback (most recent call last):
+  File "/home/pi/TaSaKha/Direction_Finder/hydra_signal_processor.py", line 141, in run
+    self.module_receiver.download_iq_samples()
+  File "/home/pi/TaSaKha/Direction_Finder/_receiver/hydra_receiver.py", line 147, in download_iq_samples
+    byte_data_np = np.frombuffer(byte_array_read, dtype='uint8', count=read_size)
+ValueError: buffer is smaller than requested size
